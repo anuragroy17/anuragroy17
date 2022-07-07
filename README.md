@@ -4,6 +4,7 @@
   - Springboot
   - Angular
   - ReactJS
+  - Python
 - 🌱 I’m currently learning Flutter & NodeJS
 - 💞️ I’m looking to collaborate on Open Source Projects deeply
 - 📫 How to reach me - 😎
